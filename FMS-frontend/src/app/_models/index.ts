@@ -1,3 +1,3 @@
 ﻿export * from './user';
-﻿export * from './Currency';
+﻿export * from './currency';
 ﻿export * from './Trade';
