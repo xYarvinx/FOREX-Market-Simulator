@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {Currency} from '../_models';
+import {Currency} from '../_models/currency';
 
 @Injectable({
   providedIn: 'root'
