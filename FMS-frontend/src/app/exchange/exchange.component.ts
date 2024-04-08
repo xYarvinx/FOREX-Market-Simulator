@@ -2,7 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {TradingViewwidget} from '../../assets/js/script';
 import {NavbarService} from '../_services';
 import {CurrencyService} from '../_services/currency.service';
-import {Currency} from '../_models';
+import {Currency} from '../_models/currency';
 import {TradeService} from '../_services/trade.service';
 import {FormBuilder, FormGroup, Validators} from '@angular/forms';
 import {User} from 'src/app/_models/user';
