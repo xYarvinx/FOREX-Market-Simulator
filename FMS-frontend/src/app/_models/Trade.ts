@@ -1,4 +1,4 @@
-import {Currency} from ".";
+import {Currency} from "src/app/_models/currency";
 import {User} from "src/app/_models/user";
 
 export class Trade {
